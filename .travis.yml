@@ -9,7 +9,7 @@ deploy:
   provider: npm
   email: me@moritzlawitschka.de
   api_key:
-    secure: E/O+pDUvUjG/iRNQYQNabBxuR0lhLmIaKS0gYMVeGBVlKdawVdAry3HSAEVe4Fjvsy5YBRRWtMwpJFPoNQ1xdRadDSm04IhHVO/mIAA1Tut85HsJoNhBsAEKDlA30AkGt9W+M9zgKCBSYacV/0vj5oYUKimioD0Q4LgQrrjOAZ0=
+    secure: JBJhpEQcI5OkdWaZD2+im1pG7Y50NGKEXand9HmMJ93Y+JoNY97JA9ar3WJema1aY6fclKH+dtoXNucIyH0QThgllfg9irZGpvBctlv0uFfnM39LnrlENlHPIMSW6PItINM4H+gS3S7wHSa25uAghbNNViEbM/kM4xR/ewEHlUA=
   on:
-    tags: true
+    # tags: true
     repo: lawitschka/galao
