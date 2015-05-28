@@ -12,6 +12,6 @@ deploy:
   api_key:
     secure: JBJhpEQcI5OkdWaZD2+im1pG7Y50NGKEXand9HmMJ93Y+JoNY97JA9ar3WJema1aY6fclKH+dtoXNucIyH0QThgllfg9irZGpvBctlv0uFfnM39LnrlENlHPIMSW6PItINM4H+gS3S7wHSa25uAghbNNViEbM/kM4xR/ewEHlUA=
   on:
-    tags: true
+    # tags: true
     repo: lawitschka/galao
     node: '0.10'
